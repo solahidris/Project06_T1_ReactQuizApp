@@ -21,7 +21,7 @@ function App() {
   ];
   const answerArray = [
     ["Naruto", "Boruto", "Kakashi"],
-    ["Mustang", "Saga", "Myvi"],
+    ["Mustang", "Saçga", "Myvi"],
     ["Sudah", "Ya sudah", "Dah dah"],
   ];
   const valueArray = [1, 0, 0];
